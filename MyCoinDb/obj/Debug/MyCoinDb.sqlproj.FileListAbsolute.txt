@@ -1,0 +1,5 @@
+C:\GitRepo\MyCoinProjects\MyCoinDb\MyCoinDb\bin\Debug\MyCoinDb.dacpac
+C:\GitRepo\MyCoinProjects\MyCoinDb\MyCoinDb\bin\Debug\MyCoinDb.dll
+C:\GitRepo\MyCoinProjects\MyCoinDb\MyCoinDb\bin\Debug\MyCoinDb.pdb
+C:\GitRepo\MyCoinProjects\MyCoinDb\MyCoinDb\obj\Debug\MyCoinDb.dll
+C:\GitRepo\MyCoinProjects\MyCoinDb\MyCoinDb\obj\Debug\MyCoinDb.pdb

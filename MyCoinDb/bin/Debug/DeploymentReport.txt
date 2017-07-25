@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[CoinMktCapSymbol] (Table)
+       [dbo].[HistoryDaily] (Table)
+       Default Constraint: unnamed constraint on [dbo].[CoinMktCapSymbol] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[CoinMktCapSymbol] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[CoinMktCapSymbol] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[HistoryDaily] (Default Constraint)
+       [dbo].[Stp_HistoryDaily_Add] (Procedure)
+
+** Supporting actions
